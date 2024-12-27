@@ -1,0 +1,41 @@
+:root{
+    --maincolor:#2C3E50;
+    --secondcolor:#1ABC9C;
+    --thirdcolor:#1A252F;
+    --fourthdcolor:#FFFFFF;
+    
+
+}
+
+.h700px{
+    height: 750px;
+}
+.fs-30{
+    font-size: 100px;
+}
+
+
+.mt-10{
+    margin-top: 100px;
+}
+
+.bg-main{
+    background-color: var(--maincolor);
+}
+.text-main{
+    color: var(--maincolor);
+}
+.bg-second{
+    background-color: var(--secondcolor);
+}
+
+.bg-third{
+    background-color: var(--thirdcolor);
+}
+.bg-four{
+    background-color: var(--fourthdcolor);
+}
+
+button{
+    border: none;
+}

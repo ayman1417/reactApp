@@ -1,0 +1,18 @@
+.line {
+    background-color: #2C3E50;
+    width: 80px;
+    height: 4px;
+}
+
+input{
+    border: none;
+    outline: none   ;
+}
+.btn-contact{
+    background-color: #1ABC9C;
+    border: none;
+    transition-duration: .5s;
+}
+.btn-contact:hover{
+    background-color: #17a488;
+}
